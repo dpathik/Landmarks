@@ -16,6 +16,7 @@
 		C93BB4EA23BE9048000956F0 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93BB4E923BE9048000956F0 /* LandmarksUITests.swift */; };
 		C93BB4F823BEA3C6000956F0 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93BB4F723BEA3C6000956F0 /* CircleImage.swift */; };
 		C9495AD623BEDA8A005F3624 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9495AD523BEDA8A005F3624 /* MapView.swift */; };
+		C9C0EF3C23C41EFC000282B7 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C0EF3B23C41EFC000282B7 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C93BB4EB23BE9048000956F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C93BB4F723BEA3C6000956F0 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		C9495AD523BEDA8A005F3624 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		C9C0EF3B23C41EFC000282B7 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				C93BB4C723BE9032000956F0 /* AppDelegate.swift */,
 				C93BB4C923BE9032000956F0 /* SceneDelegate.swift */,
+				C9C0EF3B23C41EFC000282B7 /* LandmarkDetail.swift */,
 				C93BB4F723BEA3C6000956F0 /* CircleImage.swift */,
 				C9495AD523BEDA8A005F3624 /* MapView.swift */,
 				C93BB4CD23BE9048000956F0 /* Assets.xcassets */,
@@ -273,6 +276,7 @@
 				C93BB4C823BE9032000956F0 /* AppDelegate.swift in Sources */,
 				C93BB4F823BEA3C6000956F0 /* CircleImage.swift in Sources */,
 				C9495AD623BEDA8A005F3624 /* MapView.swift in Sources */,
+				C9C0EF3C23C41EFC000282B7 /* LandmarkDetail.swift in Sources */,
 				C93BB4CA23BE9032000956F0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
